@@ -1,0 +1,10 @@
+.env
+/node_modules
+/dist
+dist
+/log
+log
+/upload
+/build
+package-lock.json
+/.env
